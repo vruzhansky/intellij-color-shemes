@@ -13,6 +13,10 @@
     <option name="ADDED_LINES_COLOR" value="8080" />
     <option name="ANNOTATIONS_COLOR" value="8080ff" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="80ff80" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="2b2d30" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="2b2d30" />
+    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="" />
+    <option name="BLOCK_TERMINAL_SELECTED_BLOCK_BACKGROUND" value="4a5158" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="464646" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -64,6 +68,12 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="f05050" />
+      </value>
+    </option>
+    <option name="BLOCK_TERMINAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="e1c40a" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
