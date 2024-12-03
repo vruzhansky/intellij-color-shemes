@@ -2168,6 +2168,11 @@
         <option name="FOREGROUND" value="f7ff66" />
       </value>
     </option>
+    <option name="REGEXP_MATCHED_GROUPS">
+      <value>
+        <option name="BACKGROUND" value="508eec" />
+      </value>
+    </option>
     <option name="REST.BOLD">
       <value>
         <option name="FONT_TYPE" value="3" />
